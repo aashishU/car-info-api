@@ -1,4 +1,6 @@
 # car-info-api
+### This REST API is designed to serve both Customers and Car Dealerships.
+### It can query the Cloud Database and provide with required data.
 
 #### Tech Used: Node and Express
 #### Database: MongoDB Atlas
@@ -13,8 +15,6 @@
 
 - To star mongodb server: brew services start mongodb-community@7.0
 - To start the API: node index.js
-
-### This api is designed to serve both Customers and Car Dealerships.
 
 ---------------------------------------------------------------------
 
